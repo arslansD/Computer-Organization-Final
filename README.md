@@ -3,7 +3,7 @@
 
 <img src="logo.png">
 
-This project was created as a mid-term project for Alatoo International University.
+This project was created as a final project for Alatoo International University Computer Organization & Architecture class.
 
 <pre>
 Name: Arslan Sultanbek uulu
