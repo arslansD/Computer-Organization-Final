@@ -1,10 +1,10 @@
 # Hosital-Management-System-DBMS
-<b>Link</b> : https://github.com/hrishikeshathalye/Hospital-Management-System-DBMS
+<b>Link</b> : https://github.com/arslansD/Computer-Organization-Final
 
 <pre>
-Name: Hrishikesh Athalye
-MIS: 111803154
-Class : TY Comp Div 2
+Name: Arslan Sultanbek uulu
+Group: COM-19A
+Ala-Too International University
 </pre>
 
 Hospital Management System made for Sem 5 DBMS Course Project.<br>
