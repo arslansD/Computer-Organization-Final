@@ -1,6 +1,10 @@
 # Hosital-Management-System-DBMS
 <b>Link</b> : https://github.com/arslansD/Computer-Organization-Final
 
+<img src="logo.png">
+
+This project was created as a mid-term project for Alatoo International University.
+
 <pre>
 Name: Arslan Sultanbek uulu
 Group: COM-19A
