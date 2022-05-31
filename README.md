@@ -62,37 +62,37 @@ Database : MySQL
 ![alt text](https://github.com/arslansD/Computer-Organization-Final/blob/main/Screenshots/PatientRegistration.png)
 
 2. Doctor registering on the system:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/DoctorRegistration.png)
+![alt text](https://github.com/arslansD/Computer-Organization-Final/blob/main/Screenshots/DoctorRegistration.png)
 
 3. Log In Screen:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/LogInScreen.png)
+![alt text](https://github.com/arslansD/Computer-Organization-Final/blob/main/Screenshots/LogInScreen.png)
 
 4. Password Reset Screen:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/PasswordReset.png)
+![alt text](https://github.com/arslansD/Computer-Organization-Final/blob/main/Screenshots/PasswordReset.png)
 
 5. Patient Home Screen:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/PatientHome.png)
+![alt text](https://github.com/arslansD/Computer-Organization-Final/blob/main/Screenshots/PatientHome.png)
 
 6. Patient Viewing History:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/PatientHistory.png)
+![alt text](https://github.com/arslansD/Computer-Organization-Final/blob/main/Screenshots/PatientHistory.png)
 
 7. Patient Viewing Appointments:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/PatientViewingAppt.png)
+![alt text](https://github.com/arslansD/Computer-Organization-Final/blob/main/Screenshots/PatientViewingAppt.png)
 
 8. Patient Scheduling Appointment:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/SchedulingAppt.png)
+![alt text](https://github.com/arslansD/Computer-Organization-Final/blob/main/Screenshots/SchedulingAppt.png)
 
 9. Doctor Home Screen:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/DoctorHome.png)
+![alt text](https://github.com/arslansD/Computer-Organization-Final/blob/main/Screenshots/DoctorHome.png)
 
 10. Doctor Viewing Appointment:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/DoctorViewingAppt.png)
+![alt text](https://github.com/arslansD/Computer-Organization-Final/blob/main/Screenshots/DoctorViewingAppt.png)
 
 11. Doctor Giving Diagnosis:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/Diagnosis.png)
+![alt text](https://github.com/arslansD/Computer-Organization-Final/blob/main/Screenshots/Diagnosis.png)
 
 12. Doctor Viewing Patient History:
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/ViewingPatientHistory.png)
+![alt text](https://github.com/arslansD/Computer-Organization-Final/blob/main/Screenshots/ViewingPatientHistory.png)
 
 <b>Instructions to run:</b>
 
